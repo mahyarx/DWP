@@ -4,21 +4,6 @@
   <a id="top"></a>Discord Webhook Protector 🔰
 </h1>
 
-<p align="center"> 
-  <kbd>
-<img src="https://raw.githubusercontent.com/mahyarx/images/master/DWP/DWP.png"></img>
-  </kbd>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/Rdimo/DWP?style=flat-square"/>
-  <img src="https://img.shields.io/github/last-commit/Rdimo/DWP?style=flat-square"/>
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=Rdimo_DWP&metric=ncloc"/>
-  <img src="https://img.shields.io/github/stars/Rdimo/DWP?color=444444&label=Stars&style=flat-square"/>
-  <img src="https://img.shields.io/github/forks/Rdimo/DWP?color=444444&label=Forks&style=flat-square"/>
-</p>
-
-
 <h2 align="center">
 ✅Discord Webhook Protection
 </h2>
