@@ -20,25 +20,10 @@
 
 
 <h2 align="center">
-  DWP was made by
-
-Love ❌ code ✅
-
+✅Discord Webhook Protection
 </h2>
 
 ---
-
-
-## <a id="content"></a>🌐 〢 Content
-
-- [🔰・Features](#features)
-- [🌌・Discord](https://cheataway.com/invite)
-- [🎉・Setup the Api with Heroku](#heroku)
-- [🎉・Setup the Api with Render](#render)
-- [🧪・Testing the Api](#testing)
-- [🟢・Keeping It alive 24/7](#alive)
-- [⚙ ・Settings](#settings)
-- [🎈・Code example](#code-example)
 
 ## <a id="features"></a>🔰 〢 Features
 
